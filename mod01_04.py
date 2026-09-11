@@ -4,7 +4,7 @@ def matAdd(m1,m2):
     return False
     
 #  function that takes a scalar and a complex vector/matrix as its two inputs and returns a vector/matrix that is a product of its two inputs.
-def scalarMatMult(m1,m2):
+def scalarMatMult(s,m1):
     #Complete the function
     return False
     
